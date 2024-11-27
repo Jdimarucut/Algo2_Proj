@@ -47,5 +47,5 @@ To use this project, ensure you have the following:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## **Contact**
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: dimarucutpaolo@gmail.com
+- **GitHub**: [Jdimaruct](https://github.com/Jdimarucut)
